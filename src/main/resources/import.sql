@@ -1,0 +1,1 @@
+INSERT INTO todo (todo, created_at) VALUES ('하위', now());
